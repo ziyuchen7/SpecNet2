@@ -1,0 +1,1 @@
+{"la":{"power_orders":0,"methods":["spec1_full","spec2_full"]},"la_repetition":1,"data_repetition":1,"data":{"name":"two_moons","n":2000,"sigma":0.15,"epsilon":0.06,"num_evals":4,"num_columns":3,"sparse_level":0.08,"gap":0.3,"plot_flag":0,"save_path":"/Users/chenziyu/Desktop/Spectralnet/batch_run/two_moons"},"folder_path":"/Users/chenziyu/Desktop/Spectralnet/batch_run/two_moons"}
