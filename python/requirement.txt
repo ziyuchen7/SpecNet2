@@ -1,0 +1,9 @@
+scikit-learn==1.0
+sklearn==0.0
+importlib-metadata==1.7.0
+json5==0.9.5
+jsonschema==3.2.0
+matplotlib==3.3.1
+torch==1.10.1
+scipy==1.7.3
+numpy==1.21.4

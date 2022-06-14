@@ -1,0 +1,26 @@
+{
+    "neural network": {
+        "units": 256,
+        "depth": 3,
+        "output dimension": 7,
+        "activation": "relu"
+    },
+    "data set": {
+        "path": "../batch_run/MNIST/data_03/disc.mat",
+        "tpath": "../batch_run/MNIST/test.mat"
+    },
+    "classify_flag": 2,
+    "net function": {
+        "net type": "specnet1",
+        "gradient type": "localu"
+    },
+    "train and test": {
+        "learning rate": 1e-4,
+        "batch size": 45,
+        "max num of epochs": 50,
+        "data order": 10,
+        "tolerance": 2e-8,
+        "log frequency": 10
+    },
+    "log path": "../batch_run/MNIST/data_03/"
+}
