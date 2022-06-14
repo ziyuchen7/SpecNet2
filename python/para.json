@@ -1,0 +1,27 @@
+{
+    "neural network": {
+        "units": 128,
+        "depth": 2,
+        "output dimension": 2,
+        "activation": "relu"
+    },
+    "data set": {
+        "path": "../batch_run/one_moon/data_01/disc.mat",
+        "tpath":"../batch_run/one_moon/test.mat"
+    },
+    "classify_flag": 0,
+    "net function": {
+        "net type": "specnet2",
+        "gradient type": "neighbor"
+    },
+    "train and test": {
+        "learning rate": 1e-3,
+        "batch size": 4,
+        "max num of epochs": 300,
+        "data order": 1,
+        "tolerance": 2e-8,
+        "log frequency": 10
+    },
+    "log path": "../batch_run/one_moon/data_01/"
+    
+}
