@@ -7,4 +7,4 @@ Folder 'batch_run' stores the data and MATLAB code for figure generations; folde
 Packages for the python virtual environment are listed in "./python/requirement.txt". To train a network, run the command -- python main.py para.json (or mnist_para.json). Network architecture and hyperparameters are encoded in the json files.
 
 
-Contact ziyu@math.duke.edu if you have any issue to run the code.
+Contact ziyuchen@umass.edu if you have any issue to run the code.
